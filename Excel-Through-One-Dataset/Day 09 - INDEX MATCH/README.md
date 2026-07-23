@@ -32,12 +32,6 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ## 📸 Final Output
 
-### Movie Dataset
-
-<img src="../../Assets/screenshots/Day 9 Dataset.png" width="900">
-
----
-
 ### INDEX + MATCH Solution
 
 <img src="../../Assets/screenshots/day 9 dashboard.png" width="900">
