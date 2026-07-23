@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/Banner/GITHUB_banner.jpeg" alt="Excel Through One Movie Dataset Banner" width="100%">
+</p>
+
 #  Excel Through a single Movie Dataset
 
 > **Solving 15 Business Problems Using Microsoft Excel**
