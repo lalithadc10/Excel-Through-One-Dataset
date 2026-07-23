@@ -38,8 +38,7 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
-
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 ---
 
 ## 💡 Key Learnings
