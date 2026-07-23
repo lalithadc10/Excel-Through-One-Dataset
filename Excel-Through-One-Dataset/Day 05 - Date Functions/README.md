@@ -48,7 +48,7 @@ Calculate the age of every movie automatically using Excel date functions to sup
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
