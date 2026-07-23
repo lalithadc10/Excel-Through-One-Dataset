@@ -39,7 +39,7 @@ Identify the limitations of Excel for large-scale business reporting and underst
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
