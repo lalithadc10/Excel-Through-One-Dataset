@@ -41,7 +41,7 @@ Perform multi-condition calculations efficiently to answer business questions wi
 
 ## 🎥 LinkedIn Demonstration
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalyst-activity-7482376958253862912-R-5i?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 ---
 
 ## 💡 Key Learnings
