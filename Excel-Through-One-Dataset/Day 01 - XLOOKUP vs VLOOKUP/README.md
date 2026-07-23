@@ -24,8 +24,7 @@ Retrieve the correct budget from another table using lookup functions while unde
 
 📁 [Open Dataset Folder](../Dataset)
 ## 📸 Final Output
-
-(Add screenshot here)
+<img src="../../Assets/screenshots/Day 1 sheet.png" width="900">
  
 ---
 
