@@ -48,7 +48,7 @@ Retrieve the correct budget from another table using lookup functions while unde
 
 - 📄 [README](README.md)
 - 📢 [LinkedIn Post](LinkedIn.md)
-- 📂 [Dataset](../../Dataset)
+- 📁 [Open Dataset Folder](../Dataset)
 ---
 
 ## ⏭ Navigation
