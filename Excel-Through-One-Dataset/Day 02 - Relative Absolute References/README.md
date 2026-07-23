@@ -37,8 +37,7 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 ---
 
 ## 🎥 LinkedIn Demonstration
-
-(Add LinkedIn post link here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
