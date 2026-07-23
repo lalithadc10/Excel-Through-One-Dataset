@@ -34,7 +34,7 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 ### Goal Seek Result
 
-<img src="../../Assets/screenshots/Day 12 Goal Seek.png" width="900">
+<img src="../../Assets/screenshots/Day 12 dashboard.png" width="900">
 
 
 ---
