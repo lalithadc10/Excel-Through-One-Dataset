@@ -40,7 +40,7 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
