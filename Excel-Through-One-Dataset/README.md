@@ -115,20 +115,20 @@ This repository is useful for:
 
 # 🗺️ 15-Day Learning Roadmap
 
-| Day | Topic | Business Scenario |
-|:---:|-------|------------------|
-| 01 | XLOOKUP vs VLOOKUP | Retrieve movie budget |
-| 02 | Cell References | Build reusable formulas |
-| 03 | IF & IFS | Categorize movies |
-| 04 | Text Functions | Clean movie data |
-| 05 | Date Functions | Analyze release dates |
-| 06 | Pivot Tables | Summarize movie data |
-| 07 | Conditional Formatting | Highlight insights |
-| 08 | SUMIFS | Business reporting |
-| 09 | INDEX + MATCH | Flexible lookups |
-| 10 | Power Query | Clean & combine data |
-| 11 | Dynamic Arrays | Live reports |
-| 12 | Goal Seek | Decision making |
-| 13 | Dependent Dropdowns | Interactive dashboard |
-| 14 | Debugging VLOOKUP | Fix lookup errors |
-| 15 | Excel → Power BI | Choosing the right tool |
+| Day | Topic | Open |
+|-----|-------|------|
+| 01 | XLOOKUP vs VLOOKUP | [📂 View](Day%2001%20-%20XLOOKUP%20vs%20VLOOKUP/) |
+| 02 | Relative, Absolute & Mixed References | [📂 View](Day%2002%20-%20Relative%20Absolute%20References/) |
+| 03 | IF & IFS | [📂 View](Day%2003%20-%20IF%20%26%20IFS/) |
+| 04 | Text Functions | [📂 View](Day%2004%20-%20Text%20Functions/) |
+| 05 | Date Functions | [📂 View](Day%2005%20-%20Date%20Functions/) |
+| 06 | Pivot Tables | [📂 View](Day%2006%20-%20Pivot%20Tables/) |
+| 07 | Conditional Formatting Dashboard | [📂 View](Day%2007%20-%20Conditional%20Formatting%20Dashboard/) |
+| 08 | SUMIFS | [📂 View](Day%2008%20-%20SUMIFS/) |
+| 09 | INDEX MATCH | [📂 View](Day%2009%20-%20INDEX%20MATCH/) |
+| 10 | Power Query | [📂 View](Day%2010%20-%20Power%20Query/) |
+| 11 | Dynamic Arrays | [📂 View](Day%2011%20-%20Dynamic%20Arrays/) |
+| 12 | Goal Seek & Scenario Manager | [📂 View](Day%2012%20-%20Goal%20Seek%20%26%20Scenario%20Manager/) |
+| 13 | Dependent Dropdowns | [📂 View](Day%2013%20-%20Dependent%20Dropdowns/) |
+| 14 | Debugging VLOOKUP | [📂 View](Day%2014%20-%20Debugging%20VLOOKUP/) |
+| 15 | When Excel Isn't Enough | [📂 View](Day%2015%20-%20When%20Excel%20Isn't%20Enough/) |
