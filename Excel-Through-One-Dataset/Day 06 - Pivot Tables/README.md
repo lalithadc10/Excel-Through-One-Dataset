@@ -48,7 +48,7 @@ Summarize large amounts of movie data into meaningful business reports using Piv
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
