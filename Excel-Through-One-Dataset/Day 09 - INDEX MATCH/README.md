@@ -40,7 +40,7 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ## 🎥 LinkedIn Demonstration
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-businessanalysis-dataanalytics-activity-7482740349862309888-RECS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
