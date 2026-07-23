@@ -42,7 +42,7 @@ Create dynamic dependent dropdown lists that improve data accuracy, simplify use
 
 ## 🎥 LinkedIn Demonstration
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalyst-activity-7484206273157079041-Mtry?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
