@@ -1,4 +1,4 @@
-# 📢 LinkedIn Post – Day 01
+# 📢 LinkedIn Post – Day 01 
 
 ## 🎥 Challenge
 
