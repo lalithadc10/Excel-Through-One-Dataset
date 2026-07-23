@@ -42,7 +42,7 @@ Transform raw movie data into an interactive dashboard using Conditional Formatt
 ---
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
