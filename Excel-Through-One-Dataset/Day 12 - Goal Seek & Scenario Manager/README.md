@@ -28,14 +28,11 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 📁 [Open Dataset Folder](../Dataset)
 
----
-
 ## 📸 Final Output
 
 ### Goal Seek Result
 
 <img src="../../Assets/screenshots/Day 12 dashboard.png" width="900">
-
 
 ---
 
