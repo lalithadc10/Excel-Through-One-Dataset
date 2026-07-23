@@ -48,7 +48,7 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 
 ## 🎥 LinkedIn Demonstration
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-powerquery-businessanalyst-activity-7483115443419914240-YBnJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
