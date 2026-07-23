@@ -21,10 +21,9 @@ Retrieve the correct budget from another table using lookup functions while unde
 
 ---
 
-## 📂 Dataset
+##  📂 Dataset
 
-Movie Dataset
-
+📁 [Open Dataset Folder] (../../Dataset)
 ---
 
 ## 📸 Final Output
@@ -48,12 +47,11 @@ Movie Dataset
 
 ---
 
-## 📁 Files Included
+##  📁 Files Included
 
-- Excel Workbook
-- README
-- LinkedIn Post
-
+- 📄 [README](README.md)
+- 📢 [LinkedIn Post](LinkedIn.md)
+- 📂 [Dataset](../../Dataset)
 ---
 
 ## ⏭ Navigation
