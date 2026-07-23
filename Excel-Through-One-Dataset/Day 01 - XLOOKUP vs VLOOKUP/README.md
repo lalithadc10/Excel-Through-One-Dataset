@@ -30,7 +30,7 @@ Retrieve the correct budget from another table using lookup functions while unde
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn post link here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_n-excel-dataanalytics-activity-7479848759384883200-zetO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
