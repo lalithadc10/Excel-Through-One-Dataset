@@ -43,6 +43,10 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 ---
 
 ## 💡 Key Learnings
+- Difference between Relative, Absolute and Mixed References
+- When to lock rows or columns
+- Building reusable formulas
+- Copying formulas without errors
 
 
 
@@ -55,7 +59,7 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 
 ## ⏭ Navigation
 
-⬅ Day 02 | Day 03 ➡
+⬅ Day 01 | Day 03 ➡
 
 
 
