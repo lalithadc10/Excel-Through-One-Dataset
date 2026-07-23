@@ -42,7 +42,7 @@ Calculate the age of every movie automatically using Excel date functions to sup
 
 ### Final Result
 
-<img src="../../Assets/screenshots/day 5 pivot table 3.png" width="900">
+<img src="../../Assets/screenshots/day 5 pivot table 2.png" width="900">
 
 ---
 
