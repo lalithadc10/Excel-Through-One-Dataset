@@ -41,7 +41,7 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 
 ### Power Query Transformation
 
-<img src="../../Assets/screenshots/Day 10 Power Query.png" width="900">
+<img src="../../Assets/screenshots/Day 10 dashboard.png" width="900">
 
 ---
 
