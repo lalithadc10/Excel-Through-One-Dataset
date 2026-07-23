@@ -35,7 +35,7 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 
 ### Monthly Excel Files
 
-<img src="../../Assets/screenshots/Day 10 dashboard.png" width="900">
+<img src="../../Assets/screenshots/day 10 jan sheet.png" width="900">
 
 ---
 
