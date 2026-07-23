@@ -45,7 +45,7 @@ Build dynamic and self-updating reports using Excel Dynamic Array functions, eli
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
