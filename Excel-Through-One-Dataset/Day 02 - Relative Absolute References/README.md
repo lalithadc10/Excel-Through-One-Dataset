@@ -32,9 +32,4 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 
 ## 📸 Final Output
 
-*(Insert screenshot here)*
 
-```html
-<p align="center">
-<img src="../../Assets/screenshots/Day 2 sheet.png" width="900">
-</p>
