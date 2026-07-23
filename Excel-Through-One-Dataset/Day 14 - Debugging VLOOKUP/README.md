@@ -41,7 +41,7 @@ Troubleshoot VLOOKUP errors caused by changes in the lookup table structure and 
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
