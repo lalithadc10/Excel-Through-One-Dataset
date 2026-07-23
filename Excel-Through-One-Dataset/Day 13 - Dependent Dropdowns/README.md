@@ -42,7 +42,7 @@ Create dynamic dependent dropdown lists that improve data accuracy, simplify use
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
