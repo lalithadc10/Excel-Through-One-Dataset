@@ -41,8 +41,7 @@ Perform multi-condition calculations efficiently to answer business questions wi
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
-
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 ---
 
 ## 💡 Key Learnings
