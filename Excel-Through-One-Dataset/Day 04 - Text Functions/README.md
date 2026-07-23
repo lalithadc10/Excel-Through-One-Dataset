@@ -38,7 +38,7 @@ Extract meaningful information from text values without manually editing thousan
 
 ## 📸 Final Output
 
-<img src="../../Assets/screenshots/Day 4 Sheet.png" width="900">
+<img src="../../Assets/screenshots/Day 4 sheet.png" width="900">
 
 ---
 
