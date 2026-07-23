@@ -44,7 +44,7 @@ Extract meaningful information from text values without manually editing thousan
 
 ## 🎥 LinkedIn Demonstration
 
-(Add LinkedIn Post Link Here)
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
 
 ---
 
