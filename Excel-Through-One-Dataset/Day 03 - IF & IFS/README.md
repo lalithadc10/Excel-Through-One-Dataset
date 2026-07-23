@@ -34,19 +34,19 @@ Automatically classify movie performance based on revenue using logical function
 
 ### Dataset
 
-<img src="../../Assets/screenshots/day 3 pivot table 1.png" width="900">
+<img src="../../Assets/screenshots/day3 pivot table 1.png" width="900">
 
 ---
 
 ### Formula Applied
 
-<img src="../../Assets/screenshots/day 3 pivot table2.png" width="900">
+<img src="../../Assets/screenshots/day3 pivot table2.png" width="900">
 
 ---
 
 ### Final Result
 
-<img src="../../Assets/screenshots/day 3 pivot table 4.png" width="900">
+<img src="../../Assets/screenshots/day3 pivot table 4.png" width="900">
 
 ---
 
