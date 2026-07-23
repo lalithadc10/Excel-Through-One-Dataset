@@ -44,7 +44,7 @@ Extract meaningful information from text values without manually editing thousan
 
 ## 🎥 LinkedIn Demonstration
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link)**
+▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalysis-activity-7480935671063486465-HhVr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
