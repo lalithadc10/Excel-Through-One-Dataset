@@ -34,7 +34,7 @@ Retrieve the correct budget from another table using lookup functions while unde
 
 ---
 
-## 💡 Key Learnings
+## 💡 Key Learnings 
 
 - Difference between XLOOKUP and VLOOKUP
 - Exact vs Approximate Match
