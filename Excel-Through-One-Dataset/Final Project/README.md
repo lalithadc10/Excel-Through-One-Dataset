@@ -72,15 +72,8 @@ Instead of manually analyzing thousands of records, the dashboard provides insta
 
 ## 📸 Project Screenshots
 
-### Dashboard Overview
-
-<img src="../../Assets/screenshots/day 7 dashboard.png" width="900">
-
----
-
 ### Interactive Dashboard
-
-<img src="../../Assets/screenshots/Day 15 sheet.png" width="900">
+<img src="../../Assets/screenshots/day 7 dashboard.png" width="900">
 
 ---
 
