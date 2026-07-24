@@ -1,8 +1,8 @@
-# 📅 Day 04 – Text Functions
+# Day 04 – Text Functions
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 Movie IDs and Studio Names are stored together in a single column.
 
@@ -10,13 +10,13 @@ Before building reports, the analyst needs to separate and clean the text values
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Extract meaningful information from text values without manually editing thousands of records.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - LEFT
 - RIGHT
@@ -36,13 +36,13 @@ Extract meaningful information from text values without manually editing thousan
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 <img src="../../Assets/screenshots/Day 4 sheet.png" width="900">
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalysis-activity-7480935671063486465-HhVr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -59,9 +59,9 @@ Extract meaningful information from text values without manually editing thousan
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
