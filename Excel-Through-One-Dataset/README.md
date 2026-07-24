@@ -42,7 +42,7 @@ Each day includes:
 
 ---
 
-## 🛠 Skills Covered
+## Skills Covered
 
 - ✅ XLOOKUP & VLOOKUP
 - ✅ Relative, Absolute & Mixed References
@@ -63,7 +63,7 @@ Each day includes:
 
 ---
 
-# 📈 Project Statistics
+# Project Statistics
 
 | Metric | Value |
 |---------|------:|
@@ -80,7 +80,7 @@ Each day includes:
 
 ---
 
-# 🎯 What You'll Find in This Repository
+#  What You'll Find in This Repository
 
 ✔️ Day-wise Excel learning journey
 
@@ -100,7 +100,7 @@ Each day includes:
 
 ---
 
-# 🎯 Who Is This Repository For?
+#  Who Is This Repository For?
 
 This repository is useful for:
 
@@ -113,7 +113,7 @@ This repository is useful for:
 
 ---
 
-# 🗺️ 15-Day Learning Roadmap
+#  15-Day Learning Roadmap
 
 | Day | Topic | Open |
 |-----|-------|------|
