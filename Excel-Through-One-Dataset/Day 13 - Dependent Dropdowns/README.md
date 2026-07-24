@@ -1,8 +1,8 @@
-# 📅 Day 13 – Dependent Dropdowns using INDIRECT
+#  Day 13 – Dependent Dropdowns using INDIRECT
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company allows users to search for movies by first selecting an Industry and then choosing a Studio.
 
@@ -10,13 +10,13 @@ Instead of displaying every studio in a single dropdown, the analyst wants the S
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Create dynamic dependent dropdown lists that improve data accuracy, simplify user input, and provide a better reporting experience.
 
 ---
 
-## 🛠 Excel Features Used
+##  Excel Features Used
 
 - Data Validation
 - Named Ranges
@@ -27,11 +27,11 @@ Create dynamic dependent dropdown lists that improve data accuracy, simplify use
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 
 ### Dependent Dropdown Dashboard
@@ -40,7 +40,7 @@ Create dynamic dependent dropdown lists that improve data accuracy, simplify use
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalyst-activity-7484206273157079041-Mtry?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -58,9 +58,9 @@ Create dynamic dependent dropdown lists that improve data accuracy, simplify use
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
