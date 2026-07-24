@@ -1,8 +1,8 @@
-# 📅 Day 14 – Debugging VLOOKUP Formula
+#  Day 14 – Debugging VLOOKUP Formula
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company maintains separate datasets for movie details and financial information.
 
@@ -12,13 +12,13 @@ The analyst needs to identify the issue, debug the formula, and apply a reliable
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Troubleshoot VLOOKUP errors caused by changes in the lookup table structure and understand how to build more reliable lookup solutions.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - VLOOKUP
 - IFERROR
@@ -29,17 +29,17 @@ Troubleshoot VLOOKUP errors caused by changes in the lookup table structure and 
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 <img src="../../Assets/screenshots/Day 14 sheet.png" width="900">
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_n-excel-dataanalytics-activity-7484551433699098624-PY3L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -57,9 +57,9 @@ Troubleshoot VLOOKUP errors caused by changes in the lookup table structure and 
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
