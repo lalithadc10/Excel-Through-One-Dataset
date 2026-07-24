@@ -1,8 +1,8 @@
-# 📅 Day 09 – INDEX & MATCH Functions
+#  Day 09 – INDEX & MATCH Functions
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company maintains separate datasets for movie details and financial information.
 
@@ -10,13 +10,13 @@ The analyst needs to retrieve information such as Studio, Budget, or Revenue by 
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Perform flexible and reliable lookups across multiple datasets using INDEX and MATCH, ensuring formulas continue to work even when the table structure changes.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - INDEX
 - MATCH
@@ -26,11 +26,11 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 ### INDEX + MATCH Solution
 
@@ -38,7 +38,7 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-businessanalysis-dataanalytics-activity-7482740349862309888-RECS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -56,9 +56,9 @@ Perform flexible and reliable lookups across multiple datasets using INDEX and M
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+- [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
