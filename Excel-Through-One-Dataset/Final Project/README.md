@@ -1,23 +1,23 @@
-## 👨‍💻 Role
+## Role
 
 Business Analyst
 
 ---
 
-## 🏢 Domain
+##  Domain
 
 Entertainment / Movie Industry
 
 ---
 
-## 🎯 Tools
+##  Tools
 
 Microsoft Excel
-# 🎬 Final Project – Movie Analytics Dashboard
+#  Final Project – Movie Analytics Dashboard
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project brings together all the concepts learned during my **15-Day Excel Challenge** into a single business solution.
 
@@ -27,7 +27,7 @@ Instead of learning Excel functions in isolation, this project demonstrates how 
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company wants an interactive dashboard to monitor business performance.
 
@@ -44,7 +44,7 @@ Instead of manually analyzing thousands of records, the dashboard provides insta
 
 ---
 
-## 🛠 Excel Features Used
+##  Excel Features Used
 
 - XLOOKUP
 - Relative, Absolute & Mixed References
@@ -66,29 +66,29 @@ Instead of manually analyzing thousands of records, the dashboard provides insta
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ### Interactive Dashboard
 <img src="../../Assets/screenshots/day 7 dashboard.png" width="900">
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 The dashboard includes:
 
-- 📈 Revenue Analysis
-- 💰 Profit Analysis
-- 🎬 Movie Performance
-- 🏢 Studio Performance
-- ⭐ Rating Analysis
-- 📅 Release Year Analysis
-- 🎯 KPI Cards
-- 🎛 Interactive Filters
+-  Revenue Analysis
+-  Profit Analysis
+-  Movie Performance
+-  Studio Performance
+-  Rating Analysis
+-  Release Year Analysis
+-  KPI Cards
+-  Interactive Filters
 
 ---
 
@@ -106,21 +106,15 @@ The dashboard includes:
 
 ---
 
-## 🎥 Project Demonstration
-
-(Add LinkedIn Video Link Here)
-
----
-
 ## 📁 Files Included
 
-- 📄 Excel Dashboard
-- 📄 README.md
-- 📁 Dataset
+-  Excel Dashboard
+-  README.md
+-  Dataset
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 By completing this project, I learned how to transform raw business data into meaningful insights using Microsoft Excel.
 
@@ -128,6 +122,6 @@ This project strengthened my understanding of Excel formulas, data cleaning, rep
 
 ---
 
-## 🏠 Back to Main Repository
+##  Back to Main Repository
 
 ➡️ [Main README](../README.md)
