@@ -1,8 +1,8 @@
-# 📅 Day 02 – Relative, Absolute & Mixed References
+#  Day 02 – Relative, Absolute & Mixed References
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company maintains monthly revenue and tax calculations for every movie.
 
@@ -10,13 +10,13 @@ Instead of writing separate formulas for each row, the analyst wants one formula
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Create reusable formulas that automatically calculate movie profits and taxes without manually editing references.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - Relative References
 - Absolute References ($)
@@ -31,12 +31,12 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 
 ---
 
-## 📸 Final Output
+##  Final Output
 <img src="../../Assets/screenshots/Day 2 sheet.png" width="900">
  
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-learninginpublic-activity-7480218066572701696-cw2G?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
@@ -51,9 +51,9 @@ Create reusable formulas that automatically calculate movie profits and taxes wi
 
 ##  📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 ---
 
 ## ⏭ Navigation
