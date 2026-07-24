@@ -1,6 +1,6 @@
-# 📢 LinkedIn Post – Day 02
+# LinkedIn Post – Day 02
 
-## 🎥 Challenge
+##  Challenge
 
 Excel 15-Day Challenge – Day 02
 
@@ -14,12 +14,12 @@ https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-learninginpubli
 
 ---
 
-## 📌 Summary
+##  Summary
 
 Learned how different cell references work and how to build reusable Excel formulas using Relative, Absolute, and Mixed References.
 
 ---
 
-## 🏷 Hashtags
+## Hashtags
 
 #Excel #ExcelFormulas #LearningInPublic #DataAnalytics #BusinessAnalyst #Codebasics
