@@ -20,6 +20,6 @@ Built dynamic dependent dropdown lists using Data Validation, Named Ranges, and 
 
 ---
 
-## 🏷 Hashtags
+##  Hashtags
 
 #Excel #DataValidation #INDIRECT #DependentDropdown #BusinessAnalyst #DataAnalytics #LearningInPublic #Codebasics
