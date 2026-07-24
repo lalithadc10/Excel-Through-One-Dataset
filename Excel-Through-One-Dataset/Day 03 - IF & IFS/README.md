@@ -1,8 +1,8 @@
-# 📅 Day 03 – IF & IFS Functions
+#  Day 03 – IF & IFS Functions
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company wants to automatically categorize movies based on their box office revenue.
 
@@ -10,13 +10,13 @@ Instead of manually checking every movie, the analyst needs Excel to assign labe
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Automatically classify movie performance based on revenue using logical functions, eliminating manual work and ensuring consistent categorization.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - IF
 - Nested IF
@@ -30,7 +30,7 @@ Automatically classify movie performance based on revenue using logical function
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 ### Dataset
 
@@ -50,7 +50,7 @@ Automatically classify movie performance based on revenue using logical function
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-learninginpublic-activity-7480569609096560640-sxSJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -67,9 +67,9 @@ Automatically classify movie performance based on revenue using logical function
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
