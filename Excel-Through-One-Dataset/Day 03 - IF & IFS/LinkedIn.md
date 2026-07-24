@@ -1,6 +1,6 @@
-# 📢 LinkedIn Post – Day 03
+#  LinkedIn Post – Day 03
 
-## 🎥 Challenge
+##  Challenge
 
 Excel 15-Day Challenge – Day 03
 
@@ -13,12 +13,12 @@ https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-learninginpubli
 
 ---
 
-## 📌 Summary
+##  Summary
 
 Built business rules to classify movie performance automatically using IF and IFS functions.
 
 ---
 
-## 🏷 Hashtags
+##  Hashtags
 
 #Excel #IF #IFS #BusinessAnalysis #LearningInPublic #DataAnalytics #Codebasics
