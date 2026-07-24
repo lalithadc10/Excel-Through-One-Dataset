@@ -1,8 +1,8 @@
-# 📅 Day 05 – Date Functions
+#  Day 05 – Date Functions
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company wants to analyze the age of each movie since its release.
 
@@ -10,13 +10,13 @@ Instead of manually calculating the number of years between the release date and
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Calculate the age of every movie automatically using Excel date functions to support release analysis, reporting, and decision-making.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - DATEDIF
 - TODAY
@@ -28,11 +28,11 @@ Calculate the age of every movie automatically using Excel date functions to sup
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 ### Dataset
 
@@ -46,7 +46,7 @@ Calculate the age of every movie automatically using Excel date functions to sup
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalysis-activity-7481305457546940416-Ulnp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -64,9 +64,9 @@ Calculate the age of every movie automatically using Excel date functions to sup
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
