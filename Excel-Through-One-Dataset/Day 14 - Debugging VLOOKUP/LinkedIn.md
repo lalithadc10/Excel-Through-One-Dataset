@@ -1,6 +1,6 @@
-# 📢 LinkedIn Post – Day 14
+#  LinkedIn Post – Day 14
 
-## 🎥 Challenge
+##  Challenge
 
 Excel 15-Day Challenge – Day 14
 
@@ -8,13 +8,13 @@ Excel 15-Day Challenge – Day 14
 
 ---
 
-## 🔗 LinkedIn Post
+##  LinkedIn Post
 
-▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_n-excel-dataanalytics-activity-7484551433699098624-PY3L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
+ **(https://www.linkedin.com/posts/jayalalitha-t_n-excel-dataanalytics-activity-7484551433699098624-PY3L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 ---
 
-## 📌 Summary
+##  Summary
 
 Learned how to identify and fix common VLOOKUP issues, understand why formulas fail, and compare more reliable alternatives like XLOOKUP and INDEX + MATCH.
 
