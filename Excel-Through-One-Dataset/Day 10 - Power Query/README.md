@@ -1,8 +1,8 @@
-# 📅 Day 10 – Power Query
+#  Day 10 – Power Query
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company receives monthly movie data from different departments in separate Excel files.
 
@@ -10,13 +10,13 @@ Instead of manually copying and cleaning data every month, the analyst needs an 
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Automate data preparation by combining multiple Excel files, removing duplicate records, and creating a clean dataset ready for analysis.
 
 ---
 
-## 🛠 Excel Features Used
+##  Excel Features Used
 
 - Power Query
 - Get Data from Folder
@@ -28,10 +28,10 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 
-## 📸 Final Output
+##  Final Output
 
 ### Monthly Excel Files
 
@@ -46,7 +46,7 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 ---
 
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-powerquery-businessanalyst-activity-7483115443419914240-YBnJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -64,9 +64,9 @@ Automate data preparation by combining multiple Excel files, removing duplicate 
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
