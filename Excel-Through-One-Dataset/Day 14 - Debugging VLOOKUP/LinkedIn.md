@@ -20,6 +20,6 @@ Learned how to identify and fix common VLOOKUP issues, understand why formulas f
 
 ---
 
-## 🏷 Hashtags
+##  Hashtags
 
 #Excel #VLOOKUP #XLOOKUP #INDEXMATCH #ExcelTips #BusinessAnalyst #DataAnalytics #LearningInPublic #Codebasics
