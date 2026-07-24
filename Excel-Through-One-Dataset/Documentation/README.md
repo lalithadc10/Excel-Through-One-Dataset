@@ -1,4 +1,4 @@
-# 📚 Documentation
+#  Documentation
 
 Welcome to the documentation section of the **Excel Through One Movie Dataset** project.
 
@@ -6,7 +6,7 @@ This folder contains supporting information about the repository, project organi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The repository is organized into multiple sections to make navigation simple and beginner-friendly.
 
@@ -18,7 +18,7 @@ The repository is organized into multiple sections to make navigation simple and
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to learn Microsoft Excel through one consistent movie dataset while solving practical business problems.
 
@@ -26,7 +26,7 @@ Each day focuses on a different Excel feature and demonstrates how it can be app
 
 ---
 
-## 📅 Learning Roadmap
+##  Learning Roadmap
 
 The challenge covers:
 
@@ -54,6 +54,6 @@ This documentation complements the day-wise folders and final project by providi
 
 ---
 
-## 🏠 Back to Repository
+##  Back to Repository
 
 ➡️ [Main README](../README.md)
