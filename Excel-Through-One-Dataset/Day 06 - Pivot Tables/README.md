@@ -1,8 +1,8 @@
-# 📅 Day 06 – Pivot Tables
+#  Day 06 – Pivot Tables
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company has thousands of movie records containing details such as industry, studio, revenue, budget, and profit.
 
@@ -10,13 +10,13 @@ Management wants a quick summary to analyze business performance without manuall
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Summarize large amounts of movie data into meaningful business reports using Pivot Tables, enabling faster analysis and better decision-making.
 
 ---
 
-## 🛠 Excel Features Used
+##  Excel Features Used
 
 - Pivot Tables
 - Sorting
@@ -28,11 +28,11 @@ Summarize large amounts of movie data into meaningful business reports using Piv
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 --- 
 
-## 📸 Final Output
+##  Final Output
 
 ### Movie Dataset
 
@@ -46,7 +46,7 @@ Summarize large amounts of movie data into meaningful business reports using Piv
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalysis-activity-7481666552447004672-BbNp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -64,9 +64,9 @@ Summarize large amounts of movie data into meaningful business reports using Piv
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
