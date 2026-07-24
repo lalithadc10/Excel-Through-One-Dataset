@@ -1,8 +1,8 @@
-# 📅 Day 08 – SUMIFS Function
+#  Day 08 – SUMIFS Function
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company wants to analyze revenue based on multiple business conditions such as Industry, Studio, Genre, and Release Year.
 
@@ -10,13 +10,13 @@ Instead of filtering the dataset repeatedly, the analyst needs a dynamic formula
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Perform multi-condition calculations efficiently to answer business questions without creating multiple Pivot Tables or manually filtering the dataset.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - SUMIFS
 - SUM
@@ -26,11 +26,11 @@ Perform multi-condition calculations efficiently to answer business questions wi
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 ### Movie Dataset
 
@@ -39,7 +39,7 @@ Perform multi-condition calculations efficiently to answer business questions wi
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalyst-activity-7482376958253862912-R-5i?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 ---
@@ -56,9 +56,9 @@ Perform multi-condition calculations efficiently to answer business questions wi
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
