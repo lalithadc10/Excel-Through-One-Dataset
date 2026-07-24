@@ -1,8 +1,8 @@
-# 📅 Day 11 – Dynamic Arrays
+#  Day 11 – Dynamic Arrays
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company regularly updates its movie database with new releases.
 
@@ -10,13 +10,13 @@ Management wants reports such as unique studios, top revenue movies, and filtere
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Build dynamic and self-updating reports using Excel Dynamic Array functions, eliminating manual report updates and making business analysis more efficient.
 
 ---
 
-## 🛠 Excel Functions Used
+##  Excel Functions Used
 
 - UNIQUE
 - FILTER
@@ -31,11 +31,11 @@ Build dynamic and self-updating reports using Excel Dynamic Array functions, eli
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
 ---
 
-## 📸 Final Output
+##  Final Output
 
 ### Dynamic Array Dashboard
 
@@ -43,7 +43,7 @@ Build dynamic and self-updating reports using Excel Dynamic Array functions, eli
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-excel365-businessanalytics-activity-7483474782894727168-OcqY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
@@ -61,9 +61,9 @@ Build dynamic and self-updating reports using Excel Dynamic Array functions, eli
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
