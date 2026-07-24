@@ -1,6 +1,6 @@
-# 📢 LinkedIn Post – Day 06
+#  LinkedIn Post – Day 06
 
-## 🎥 Challenge
+##  Challenge
 
 Excel 15-Day Challenge – Day 06
 
@@ -13,12 +13,12 @@ Excel 15-Day Challenge – Day 06
 https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-businessanalysis-activity-7481666552447004672-BbNp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw
 ---
 
-## 📌 Summary
+##  Summary
 
 Summarized thousands of movie records into meaningful business reports using Pivot Tables.
 
 ---
 
-## 🏷 Hashtags
+##  Hashtags
 
 #Excel #PivotTable #Dashboard #BusinessAnalysis #DataAnalytics #LearningInPublic #Codebasics
