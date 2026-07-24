@@ -1,8 +1,8 @@
-# 📅 Day 12 – Goal Seek & Scenario Manager
+#  Day 12 – Goal Seek & Scenario Manager
 
 ---
 
-## 🎯 Business Scenario
+##  Business Scenario
 
 A movie production company plans to re-release one of its blockbuster movies with discounted ticket prices to attract more audiences.
 
@@ -10,13 +10,13 @@ Management wants to determine the maximum discount that can be offered while sti
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 Use Excel's What-If Analysis tools to identify the optimal discount percentage and compare multiple business scenarios without manually testing different values.
 
 ---
 
-## 🛠 Excel Features Used
+##  Excel Features Used
 
 - Goal Seek
 - Scenario Manager
@@ -26,9 +26,9 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 ## 📂 Dataset
 
-📁 [Open Dataset Folder](../Dataset)
+ [Open Dataset Folder](../Dataset)
 
-## 📸 Final Output
+##  Final Output
 
 ### Goal Seek Result
 
@@ -36,7 +36,7 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 ---
 
-## 🎥 LinkedIn Demonstration
+##  LinkedIn Demonstration
 
 ▶️ **[View LinkedIn Post](https://www.linkedin.com/posts/jayalalitha-t_excel-businessanalysis-dataanalytics-activity-7483840431848415232-JpuC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 ---
@@ -53,9 +53,9 @@ Use Excel's What-If Analysis tools to identify the optimal discount percentage a
 
 ## 📁 Files Included
 
-- 📄 [README](README.md)
-- 📢 [LinkedIn Post](LinkedIn.md)
-- 📁 [Open Dataset Folder](../Dataset)
+-  [README](README.md)
+-  [LinkedIn Post](LinkedIn.md)
+-  [Open Dataset Folder](../Dataset)
 
 ---
 
